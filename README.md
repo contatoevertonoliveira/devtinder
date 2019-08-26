@@ -1,4 +1,4 @@
-# devtinder
+# devtinder 1.0
 
 Aplicativo criado a partir da semana omnistack oraganizada pela equipe da Rocketseat.
 
